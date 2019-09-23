@@ -1,0 +1,36 @@
+CLUSTERING ASSIGNMENT
+
+ANSWER
+======
+we have 5 clusters in the plot.
+
+1.	people who fall in the cluster 0 have an annual income between $40k and 80k, 
+	they also have a spending score between 35 to 60
+
+2.	in cluster 1, they have an annual Income of between 70 to 140 with only one point above 130
+	also theyre spending score is also between 0 and 40
+
+3.	In cluster 2, it is also noticed that the annual income ranges between 10 and 40k, 
+	and they also have a spending score between 0 to 40.
+	 things that can be inferred
+	
+	i.	 they have the highest income rate and also theyre spendings is low,
+		it is very likely that this peple are older individuals who have high years of experience therefore
+		they receive higher salaries.
+	ii	Since they are old, their spending habits are poor, older people are less
+		likely to go on shopping spree.
+
+4.	in cluster 3, they have an annual income of between 10k to 40k, while theyre spendng
+	score is between 60 and 100. this people seems to have the highest spending score to the
+	ratio to the Annual income. things that can be reffered is that
+	
+	i.	they are either living out of they're means or they might be women whose husband are extremely rich
+		and they're spendings does not depend on the annual income they receive.
+	ii.	they might be the children of those people in cluster 2, who does'nt spend much
+		however, their children spends most of their money,
+
+5.	In cluster 4, they have a high Annual income which ranges from 65k to 140k.
+	and also their spending rate is also high which is between 60 and 100k.
+
+ 	i.	they are likly to be Young CEo's 
+	ii.	people who have amased large wealth and still in their youthfull age.
